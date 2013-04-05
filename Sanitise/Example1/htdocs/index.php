@@ -45,7 +45,7 @@ var_dump($sanitise->isReal($aReal));
 print "<br> printing the real number => ";
 print $sanitise->isReal($aReal);
 
-print "<br>Notice the zero is removed from the end of the digit."
+print "<br>Notice the zero is removed from the end of the digit.";
 
 
 
